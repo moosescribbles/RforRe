@@ -1,0 +1,33 @@
+{
+  "title": "R for Revenge - Hellcoaster",
+  "description": "Goku 1 Side Contest",
+  "artist": "MooseScribbles",
+  "author": "RainbowSamphire",
+  "cover": "https://i.imgur.com/VNB9IuJ.png",
+  "chapters": {
+      "1": {
+      "title": "R v Snailman - Hellcoaster",
+      "volume": "1",
+      "last_updated": "1701380620",
+      "groups": {
+        "Penrose": "/proxy/api/imgur/chapter/ru52CQ5/"
+      }
+    },
+    "2": {
+      "title": "Hellcoaster - R v Riki&Mute v Grandchild ",
+      "volume": "1",
+      "last_updated": "1701380620",
+      "groups": {
+        "Penrose": "/proxy/api/imgur/chapter/pDAS13G/"
+      }
+    },
+    "3": {
+      "title": "Parte finale: Resa dei conti - R v Socrico Piccolo",
+      "volume": "1",
+      "last_updated": "1613908800",
+      "groups": {
+        "Penrose": "/proxy/api/imgur/chapter/v6yK1YZ/"
+      }
+    }
+  }
+}
